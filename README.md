@@ -4,21 +4,21 @@
 
 ![Android SDK (Java) & NDK (C++)](https://jalammar.github.io/images/android-tensorflow-app-structure_2.png)
 
-## App 1: Image recognition - Classification 
+### App 1: Image recognition - Classification 
 
-### Implementation
+#### Implementation
 
-### Structure walkthrough 
+#### Structure walkthrough 
 
-## App 2: ... - Detection 
+### App 2: ... - Detection 
 
-### Implementation
+#### Implementation
 
-### Structure walkthrough 
+#### Structure walkthrough 
 
-## App 3: ... - Styling 
+### App 3: ... - Styling 
 
-### Implementation
+#### Implementation
 
-### Structure walkthrough 
+#### Structure walkthrough 
 
