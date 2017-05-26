@@ -6,7 +6,7 @@ In this repo I'm gonna apply Machine learning on Android. There are two approach
 
 - The other approach is to get instant data and train the model on your device directly. But only simple models can be applied without large GPU computation, otherwise it will result a bad user experience.
 
-So in this project I'm following the 1st one ...
+I'm following the 1st one by playing around [TensorFlow Library](https://github.com/tensorflow/tensorflow)
 
 ### How Android SDK interact with TensorFLow library 
 
