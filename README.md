@@ -1,6 +1,6 @@
 # Supercharging Android apps with machine learning  (TensorFlow Library)
 
-## How Android SDK interact with TensorFLow library 
+### How Android SDK interact with TensorFLow library 
 
 ![Android SDK (Java) & NDK (C++)](https://jalammar.github.io/images/android-tensorflow-app-structure_2.png)
 
