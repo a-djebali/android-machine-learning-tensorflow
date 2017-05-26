@@ -12,6 +12,8 @@ I'm following the 1st one by playing around [TensorFlow Library](https://github.
 
 ![Android SDK (Java) & NDK (C++)](https://jalammar.github.io/images/android-tensorflow-app-structure_2.png)
 
+### Setup environment 
+
 ### App 1: Image recognition - Classification 
 
 #### Implementation
